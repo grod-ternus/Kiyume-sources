@@ -1,0 +1,12 @@
+{
+  "allowedDomains" : [
+    "grod-ternus.github.io"
+  ],
+  "indexURL" : "https://grod-ternus.github.io/Kiyume-sources/index.json",
+  "keyFingerprint" : "4eed2e231cc70c13d57fd47613ce524249e26b4d7540e27fcd9c9fcc43f81749",
+  "keyID" : "kiori-repository",
+  "operatorName" : "Kiyume Sources",
+  "publicKey" : "GAwXlSitaJ19hn/lQWDvjFC5o1vXQ4/Ltw6daq8ia4A=",
+  "repositoryID" : "kiyume.sources",
+  "schemaVersion" : 1
+}

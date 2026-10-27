@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <title>Add Kiyume Sources</title>
+  <meta name="description" content="Add 60+ manga, manhwa and webtoon sources to Kiyume in one tap.">
+  <link rel="icon" href="kiyume-icon.png">
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #fff; color: #1c1c1e; font: 17px/1.5 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; }
+    main { max-width: 30rem; margin: 0 auto; padding: 3rem 1.25rem 2.5rem; text-align: center; }
+    .icon { width: 96px; height: 96px; border-radius: 22px; }
+    h1 { font-size: 1.9rem; margin: 1rem 0 .4rem; }
+    .lead { color: #6e6e73; margin: 0 0 1.75rem; }
+    .button { display: block; padding: 1.05rem; border-radius: 999px; background: #ef7d32; color: #fff; font-weight: 700; font-size: 1.1rem; text-decoration: none; }
+    .button:active { opacity: .85; }
+    .button { display: flex; align-items: center; justify-content: center; gap: .6rem; }
+    .button img { width: 30px; height: 30px; border-radius: 7px; box-shadow: 0 0 0 1.5px rgba(255,255,255,.85); }
+    .steps { text-align: left; margin: 2.25rem 0 0; padding: 0; list-style: none; counter-reset: s; }
+    .steps li { counter-increment: s; position: relative; padding: 0 0 1.1rem 2.6rem; }
+    .steps li::before { content: counter(s); position: absolute; left: 0; top: 0; width: 1.8rem; height: 1.8rem; border-radius: 9px; background: #fdeee3; color: #ef7d32; font-weight: 700; text-align: center; line-height: 1.8rem; }
+    .box { text-align: left; background: #f2f2f7; border-radius: 12px; padding: 1rem 1.1rem; margin-top: 1.25rem; color: #3a3a3c; font-size: .95rem; }
+    .box b { color: #1c1c1e; }
+    .small { color: #8e8e93; font-size: .8rem; margin-top: 1.5rem; }
+    code { font-size: .78rem; word-break: break-all; }
+    a { color: #ef7d32; }
+  </style>
+</head>
+<body>
+  <main>
+    <img class="icon" src="kiyume-icon.png" alt="">
+    <h1>Kiyume Sources</h1>
+    <p class="lead">More than 60 places to read manga, manhwa and webtoons, ready in one tap.</p>
+
+    <a class="button" href="kiyume://repository/enroll?payload=ewogICJhbGxvd2VkRG9tYWlucyIgOiBbCiAgICAiZ3JvZC10ZXJudXMuZ2l0aHViLmlvIgogIF0sCiAgImluZGV4VVJMIiA6ICJodHRwczovL2dyb2QtdGVybnVzLmdpdGh1Yi5pby9LaXl1bWUtc291cmNlcy9pbmRleC5qc29uIiwKICAia2V5RmluZ2VycHJpbnQiIDogIjRlZWQyZTIzMWNjNzBjMTNkNTdmZDQ3NjEzY2U1MjQyNDllMjZiNGQ3NTQwZTI3ZmNkOWM5ZmNjNDNmODE3NDkiLAogICJrZXlJRCIgOiAia2lvcmktcmVwb3NpdG9yeSIsCiAgIm9wZXJhdG9yTmFtZSIgOiAiS2l5dW1lIFNvdXJjZXMiLAogICJwdWJsaWNLZXkiIDogIkdBd1hsU2l0YUoxOWhuL2xRV0R2akZDNW8xdlhRNC9MdHc2ZGFxOGlhNEE9IiwKICAicmVwb3NpdG9yeUlEIiA6ICJraXl1bWUuc291cmNlcyIsCiAgInNjaGVtYVZlcnNpb24iIDogMQp9"><img src="kiyume-icon.png" alt="">Add to Kiyume</a>
+
+    <ol class="steps">
+      <li><b>Tap “Add to Kiyume”</b> on your iPhone or iPad.</li>
+      <li><b>Kiyume opens</b> and asks if you want to add this list. Tap <b>Add</b>.</li>
+      <li><b>Pick the sources you like</b> in Explore and start reading.</li>
+    </ol>
+
+    <div class="box"><b>Nothing happens when you tap the button?</b><br>
+      You need Kiyume on this device first. <a href="https://testflight.apple.com/join/dWuRaJqU">Get Kiyume</a>, then come back to this page.</div>
+
+    <div class="box"><b>Is it safe?</b><br>
+      Yes. This list only tells Kiyume where to find series; nothing is installed until you say so, and every source is checked before it is used.</div>
+
+    <p class="small">For the curious: the list is signed. Kiyume shows this fingerprint before you confirm.<br>
+      <code>4eed2e23 1cc70c13 d57fd476 13ce5242 49e26b4d 7540e27f cd9c9fcc 43f81749</code></p>
+  </main>
+</body>
+</html>

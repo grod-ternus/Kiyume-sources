@@ -4,7 +4,9 @@
  "sources": {
   "asia.komiku": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 96,
+   "titlesMore": true
   },
   "biz.batcave": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -12,27 +14,42 @@
   },
   "blog.mangalivre": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 21,
+   "titlesMore": false
   },
   "cc.ngomik.02": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 176,
+   "titlesMore": true
   },
   "ch.komikindo": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "com.archiviumbar": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
    "state": "ok"
   },
+  "com.asterscans": {
+   "state": "ok",
+   "titles": 21,
+   "titlesMore": false
+  },
   "com.asurascans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "com.azorafly": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "com.bunmanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -40,11 +57,20 @@
    "message": "forbidden",
    "state": "ok",
    "step": "pages",
-   "strikes": 1
+   "strikes": 1,
+   "titles": 96,
+   "titlesMore": true
+  },
+  "com.comichubfree": {
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "com.enhijala": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 135,
+   "titlesMore": false
   },
   "com.gaiatoon": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -52,7 +78,9 @@
   },
   "com.grimscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 52,
+   "titlesMore": false
   },
   "com.hastateam.ddt": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -64,131 +92,225 @@
   },
   "com.hqnow": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 45,
+   "titlesMore": false
   },
   "com.kencomics": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "com.lagoonscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 159,
+   "titlesMore": true
+  },
+  "com.lectortaurus": {
+   "state": "ok",
+   "titles": 200,
+   "titlesMore": true
   },
   "com.legionscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 125,
+   "titlesMore": false
   },
   "com.lelmanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "com.lelscanfr": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 198,
+   "titlesMore": true
   },
   "com.mangakatana": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "com.mangaoni": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 96,
+   "titlesMore": true
   },
   "com.mangapill": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 50,
+   "titlesMore": false
   },
   "com.manhuanext": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 73,
+   "titlesMore": false
   },
   "com.manhuaplus": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 96,
+   "titlesMore": true
   },
   "com.manhwanex": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 128,
+   "titlesMore": true
   },
   "com.mistscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 214,
+   "titlesMore": false
   },
   "com.mycomic": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
+  },
+  "com.nabicix": {
+   "state": "ok",
+   "titles": 51,
+   "titlesMore": false
   },
   "com.naver.comic": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 53,
+   "titlesMore": false
   },
   "com.nyxscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "com.olympustaff": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 320,
+   "titlesMore": true
   },
   "com.olympusxyz": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 15,
+   "titlesMore": false
   },
   "com.orionscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "com.phoenixscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 67,
+   "titlesMore": false
+  },
+  "com.rackusreads": {
+   "state": "ok",
+   "titles": 29,
+   "titlesMore": false
   },
   "com.rizzfables": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 87,
+   "titlesMore": false
+  },
+  "com.rokaricomics": {
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "com.sanascans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "com.scantradunion": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 17,
+   "titlesMore": false
   },
   "com.sereinscan": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 70,
+   "titlesMore": false
   },
   "com.tcbonepiecechapters": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 19,
+   "titlesMore": false
   },
   "com.tortugaceviri": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 121,
+   "titlesMore": false
   },
   "com.uchuujinmangas": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "com.webtoons": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 162,
+   "titlesMore": false
   },
   "com.weebcentral": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 256,
+   "titlesMore": true
+  },
+  "com.yakshacomics": {
+   "state": "ok",
+   "titles": 63,
+   "titlesMore": false
   },
   "com.yurionline": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 128,
+   "titlesMore": true
   },
   "com.zettruyen": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 232,
+   "titlesMore": true
+  },
+  "fr.fmteam": {
+   "state": "ok",
+   "titles": 20,
+   "titlesMore": false
   },
   "fr.mangasorigines": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "id.kuromanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -196,23 +318,33 @@
   },
   "info.readnifteam": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 52,
+   "titlesMore": false
   },
   "io.shngm": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "it.mangaworld": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 128,
+   "titlesMore": true
   },
   "me.mangalib": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 15,
+   "titlesMore": false
   },
   "me.marmota": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 384,
+   "titlesMore": true
   },
   "mobi.mangatoon": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -220,28 +352,48 @@
    "message": "contentUnavailable",
    "state": "broken",
    "step": "chapters",
-   "strikes": 2
+   "strikes": 2,
+   "titles": 18,
+   "titlesMore": false
   },
   "moe.atsu": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 320,
+   "titlesMore": true
+  },
+  "net.evascans": {
+   "state": "ok",
+   "titles": 276,
+   "titlesMore": false
   },
   "net.gtothegreatsite.reader": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 83,
+   "titlesMore": false
   },
   "net.lhtranslation": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 96,
+   "titlesMore": true
   },
   "net.oremanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 128,
+   "titlesMore": true
   },
   "net.renascans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
    "state": "ok",
    "unreachableFromChecker": true
+  },
+  "net.slowmanga": {
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "net.speedmanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -253,91 +405,155 @@
   },
   "net.sushiscan": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "net.tuttoanimemanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 118,
+   "titlesMore": false
   },
   "one.natsu": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "online.3asq": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 166,
+   "titlesMore": true
+  },
+  "org.akazascans": {
+   "state": "ok",
+   "titles": 21,
+   "titlesMore": false
   },
   "org.astramanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
+  },
+  "org.bluesolo": {
+   "state": "ok",
+   "titles": 97,
+   "titlesMore": false
   },
   "org.demonicscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 320,
+   "titlesMore": true
   },
   "org.genztoons": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 229,
+   "titlesMore": false
+  },
+  "org.komikstation": {
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "org.komiku": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 79,
+   "titlesMore": true
   },
   "org.madarascans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "org.magustoon": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "org.mangadex": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 160,
+   "titlesMore": true
   },
   "org.mangaread": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 200,
+   "titlesMore": true
+  },
+  "org.mangasushi": {
+   "state": "ok",
+   "titles": 48,
+   "titlesMore": false
   },
   "org.mangawow": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 144,
+   "titlesMore": true
   },
   "org.timelesstoons": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 202,
+   "titlesMore": false
   },
   "org.tritinia": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 57,
+   "titlesMore": false
   },
   "org.vortexscans": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "org.zonatmo": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
   },
   "ru.mangahub": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 384,
+   "titlesMore": true
   },
   "site.isekaikomik.ch1": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 240,
+   "titlesMore": true
   },
   "to.kiryuu": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 191,
+   "titlesMore": true
   },
   "to.mangalivre": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 10,
+   "titlesMore": false
   },
   "top.yurionair": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 96,
+   "titlesMore": true
   },
   "ua.com.honeymanga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
@@ -345,19 +561,32 @@
    "message": "contentUnavailable",
    "state": "broken",
    "step": "image",
-   "strikes": 4
+   "strikes": 4,
+   "titles": 240,
+   "titlesMore": true
   },
   "ua.in.manga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 128,
+   "titlesMore": true
   },
   "uno.manga": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 192,
+   "titlesMore": true
+  },
+  "xyz.flamecomics": {
+   "state": "ok",
+   "titles": 154,
+   "titlesMore": false
   },
   "zone.grabber": {
    "checkedAt": "2026-11-05T06:10:48+00:00",
-   "state": "ok"
+   "state": "ok",
+   "titles": 220,
+   "titlesMore": false
   }
  }
 }

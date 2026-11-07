@@ -2,7 +2,7 @@
 
 <h1 align="center">Kiyume Sources</h1>
 
-<p align="center">More than 60 places to read manga, manhwa and webtoons in <b>Kiyume</b>, ready in one tap.</p>
+<p align="center">More than 100 places to read manga, manhwa and webtoons in <b>Kiyume</b>, ready in one tap.</p>
 
 <p align="center">
   <a href="https://grod-ternus.github.io/Kiyume-sources/install.html"><img src="https://img.shields.io/badge/Add%20to%20Kiyume-EF7D32?style=for-the-badge" alt="Add to Kiyume"></a>

@@ -1,67 +1,63 @@
 {
- "generatedAt": "2026-11-25T06:04:47+00:00",
+ "generatedAt": "2026-11-27T06:00:23+00:00",
  "schemaVersion": 1,
  "sources": {
   "asia.komiku": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "biz.batcave": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "needsCheck"
   },
   "blog.mangalivre": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "cc.ngomik.02": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "ch.komikindo": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.archiviumbar": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.asterscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.asurascans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.azorafly": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.comichubfree": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "failingSince": "2026-11-22T06:15:41+00:00",
-   "message": "contentUnavailable",
-   "state": "ok",
-   "step": "image",
-   "strikes": 1,
-   "unreachableFromChecker": true
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok"
   },
   "com.enhijala": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.eskimangalar": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.gaiatoon": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "needsCheck"
   },
   "com.grimscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "failingSince": "2026-11-14T20:19:33+00:00",
    "message": "unknown(details: Optional(\"too many HTTP redirects\"))",
    "state": "broken",
@@ -70,82 +66,92 @@
    "unreachableFromChecker": true
   },
   "com.hastateam.ddt": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "needsCheck"
   },
   "com.hastateam.reader": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "needsCheck"
   },
   "com.hqnow": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.kencomics": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.lagoonscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok"
   },
   "com.lectortaurus": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.leemiau": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.legionscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.lelmanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.lelscanfr": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.limonmanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.mangakatana": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.mangaoni": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "needsCheck"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "needsCheck",
+   "unreachableFromChecker": true
   },
   "com.mangapill": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.mangatown": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.manhuanext": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.manhuaplus": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.manhwanex": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.mistscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "failingSince": "2026-11-22T06:15:41+00:00",
    "message": "contentUnavailable",
    "state": "ok",
@@ -154,233 +160,252 @@
    "unreachableFromChecker": true
   },
   "com.mycomic": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.nabicix": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.naver.comic": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.nyxscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.olympustaff": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.olympusxyz": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.orionscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.phoenixscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.rackusreads": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.rizzfables": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.rokaricomics": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.sanascans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.scantradunion": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.sereinscan": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.tcbonepiecechapters": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.tortugaceviri": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.uchuujinmangas": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.uzaymanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "ok"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "ok",
+   "unreachableFromChecker": true
   },
   "com.webtoons": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.weebcentral": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.yakshacomics": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "com.yurionline": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
-   "state": "needsCheck"
+   "checkedAt": "2026-11-27T06:00:23+00:00",
+   "state": "needsCheck",
+   "unreachableFromChecker": true
   },
   "com.zettruyen": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "fr.fmteam": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "fr.mangasorigines": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "id.kuromanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "needsCheck",
    "unreachableFromChecker": true
   },
   "info.readnifteam": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "io.shngm": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "it.mangaworld": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "me.mangalib": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "me.marmota": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "moe.atsu": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.evascans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.gtothegreatsite.reader": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.lhtranslation": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.oremanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.renascans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.slowmanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.sushiscan": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "net.tuttoanimemanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "one.natsu": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "online.3asq": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.akazascans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.astramanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.bluesolo": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.demonicscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.genztoons": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.komikstation": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.komiku": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.madarascans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "failingSince": "2026-11-22T06:15:41+00:00",
    "message": "policyViolation(SourceAPI.PolicyViolation.responseTooLarge(actual: 22637145, maximum: 20971520))",
    "state": "ok",
@@ -389,57 +414,57 @@
    "unreachableFromChecker": true
   },
   "org.magustoon": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.mangadex": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.mangaread": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.mangasushi": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.mangawow": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.timelesstoons": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.tritinia": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.vortexscans": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "org.zonatmo": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "ru.mangahub": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "site.isekaikomik.ch1": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "failingSince": "2026-11-14T20:19:33+00:00",
    "message": "unknown(details: Optional(\"HTTP 523\"))",
    "state": "broken",
@@ -448,42 +473,42 @@
    "unreachableFromChecker": true
   },
   "to.kiryuu": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "to.mangalivre": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "top.yurionair": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "ua.com.honeymanga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "ua.in.manga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "uno.manga": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "xyz.flamecomics": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   },
   "zone.grabber": {
-   "checkedAt": "2026-11-25T06:04:47+00:00",
+   "checkedAt": "2026-11-27T06:00:23+00:00",
    "state": "ok",
    "unreachableFromChecker": true
   }
